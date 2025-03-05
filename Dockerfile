@@ -17,3 +17,4 @@ CMD ["python", "app.py"]
 
 # Ejecutar el contenedor
 #docker run --rm mi-app-python
+#docker run --rm -it mi-app-python
